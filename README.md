@@ -1,5 +1,9 @@
 # SubState Demo
 
-Static build of the rideshare command-center simulation.
+Live rideshare command-center simulation.
 
-Source lives in the private repo `VinyaAI/substate-rideshare-demo`.
+[Open the demo](https://vinyaai.github.io/substate-demo/)
+
+SubState is a streaming API and real-time database that syncs each subscription as the data changes. The simulation shows a dispatcher watching drivers, riders, and trips update live.
+
+[SubState](https://github.com/VinyaAI/SubState)
